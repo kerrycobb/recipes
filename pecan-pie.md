@@ -1,6 +1,8 @@
 # Pecan Pie
 
 ## Ingredients
+[Pie Crust](pie-crust.md)
+
 ### Filling
 - 1 cup cream or milk
 - 1 cup brown sugar
