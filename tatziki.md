@@ -1,13 +1,13 @@
 # Tzatziki Sauce
 
 ## Ingredients
-1. 1/2 of large cucumber, unpeeled
-2. 1.5 cups Greek yogurt
-3. 2 large cloves garlic, finely minced
-4. 2 tbsp. extra virgin olive oil
-5. 1 tbsp. white vinegar 
-6. 1/2 tsp salt
-7. 1 tbsp fresh dill, minced
+- 1/2 of large cucumber, unpeeled
+- 1.5 cups Greek yogurt
+- 2 large cloves garlic, finely minced
+- 2 tbsp. extra virgin olive oil
+- 1 tbsp. white vinegar 
+- 1/2 tsp salt
+- 1 tbsp fresh dill, minced
 
 ## Directions
 1. Grate the cucumber and drain through a fine mesh sieve overnight in the fridge.

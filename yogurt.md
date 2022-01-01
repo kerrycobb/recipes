@@ -1,8 +1,7 @@
 # Instant Pot Yogurt
-
 ## Ingredients
-1. 1 gal. Whole Milk
-2. 1/4 cup Yogurt starter 
+- 1 gal. Whole Milk
+- 1/4 cup Yogurt starter 
 
 ## Directions
 1. Heat milk with "Slow Cook" on the low setting for ** minutes or until the milk has reached 180&deg;F/82&deg;C.  
