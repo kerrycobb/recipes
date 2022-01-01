@@ -1,6 +1,6 @@
 # Pecan Pie
 
-Modified version of [Tasting History](https://www.youtube.com/watch?v=sIFlPc-TW94&t=237s)
+Modified version of [Tasting History](https://www.youtube.com/watch?v=sIFlPc-TW94&t=237s) recipe.
 
 ## Ingredients
 - [Pie Crust](pie-crust.md) in a 9.5 x 1 inch round tart pan.
