@@ -3,7 +3,7 @@
 ## Ingredients
 - 1 1/4 cups all-purpose flour
 - 1 teaspoon kosher salt
-- 1/2 cup very cold unsalted butter, 1 stick
+- 1/2 cup cold unsalted butter, 1 stick
 - 4 tablespoons ice water
 
 ## Directions
