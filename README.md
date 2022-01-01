@@ -8,6 +8,7 @@
 - [Fish Tacos](fish-tacos.md)
 - [Hard Boiled Eggs](hard-boiled-eggs.md)
 - [Hummus](hummus.md)
+- [Merengue](merengue.md)
 - [Pecan Pie](pecan-pie.md)
 - [Pie Crust](pie-crust.md)
 - [Pita](pita.md)
