@@ -1,5 +1,3 @@
-# Kerry & Aura's Recipes
-
 - [Arroz con Leche](arroz-con-leche.md)
 - [Arroz con Pollo](arroz-con-pollo.md)
 - [Char Siu](char-siu.md)
