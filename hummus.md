@@ -6,6 +6,7 @@
 - 1 generous cup dried chickpeas or 3 ⅔ cups cooked chickpeas
 - 1 teaspoon baking soda
 - 6 cups water
+- 1 bay leaf
 - 1 cup tahini paste
 - 4 tablespoons freshly squeezed lemon juice
 - 4 cloves garlic
