@@ -3,7 +3,7 @@
 [Source](https://www.seriouseats.com/recipes/2016/03/israeli-style-extra-smooth-hummus-recipe.html)
 
 ## Ingredients
-- 1 generous cup dried chickpeas or 3 2/3 cups cooked chickpeas
+- 1 generous cup dried chickpeas or 3 ⅔ cups cooked chickpeas
 - 1 teaspoon baking soda
 - 6 cups water
 - 1 cup tahini paste
