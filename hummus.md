@@ -15,4 +15,4 @@
 1. In pressure cooker, cook dried chickpeas for 1 hour in 6 cups water with a bay leaf, baking soda and 1 tablespoon of salt added.
 2. In food processor add lemon juice and peeled garlic cloves. Don't crush garlic cloves too much gettting skins off. We want most of the damage to the garlic to be happening in contact with the lemon juice to limit the harshness of the garlic.
 3. Place cooked chickpeas and enough cooking water to cover in food processor. Blend until spooth.
-4. Blend in tahini paste and 1 $frac{1}{2}$ teaspoons salt.
+4. Blend in tahini paste and 1 $\frac{1}{2}$ teaspoons salt.
