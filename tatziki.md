@@ -12,4 +12,4 @@
 ## Directions
 1. Grate the cucumber and drain through a fine mesh sieve overnight in the fridge.
 2. Combine the yogurt, garlic, oil, vinegar, and salt in a large bowl. Cover and refrigerate overnight.
-3. Transfer the grated cucumber and fresh dill to the yogurt mixture and stir to combine. Serve chilled with pita bread for dipping.
+3. Transfer the grated cucumber and fresh dill to the yogurt mixture and stir to combine.
