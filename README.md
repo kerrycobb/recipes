@@ -1,7 +1,7 @@
 - [Arroz con Leche](arroz-con-leche.md)
 - [Arroz con Pollo](arroz-con-pollo.md)
 - [Char Siu](char-siu.md)
-- [Cheese Cake](cheese-cake.md)
+- [Cheese Cake](cheesecake.md)
 - [Falafel](falafel.md)
 - [Fish Tacos](fish-tacos.md)
 - [Hard Boiled Eggs](hard-boiled-eggs.md)
