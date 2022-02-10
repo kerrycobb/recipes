@@ -7,5 +7,5 @@
 - 1/4 teaspoon salt
 - 1 vanilla bean
 
-
+https://foodfolksandfun.net/vanilla-custard-ice-cream/ follow this
 https://www.seriouseats.com/easiest-best-homemade-vanilla-ice-cream-how-to-slideshow
