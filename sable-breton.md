@@ -1,18 +1,16 @@
 
 # Ingredients
-- 1 stick (112 gr) unsalted butter, room temperature
-- 1/3 cup (65 gr) granulated sugar
+- 1 stick (112 g.) unsalted butter, room temperature
+- 1/3 cup (65 g.) granulated sugar
 - 1/2 tsp vanilla extract
 - pinch of salt
-- 1 cup + 2 TBSP (134 gr) all-purpose flour
-
-
+- 1 cup + 2 TBSP (134 g.) all-purpose flour
 
 # Instructions
-1) Preheat the oven to 350 F (177 C).
-2) Lightly grease pan with butter.
-3) Mix together dry ingredients. 
-4) Add butter and vanilla extract and mix. Mixture should be crumbly resembling wet sand.
-5) Using damp hands, transfer the dough crumbs into the prepared dish and pat down evenly. Use a fork to dock the dough all over.
-6) Bake on the middle rack at 350 F (177 C). If the filling will need to be baked, par-bake the crust for 20-23 minutes until the edges are lightly browned. If the filling will not need to be baked, bake for 30-33 minutes until the crust is completely cooked and let cool completely.
-
+1) Preheat the oven to 300°F/148°C and grease pan.
+2) Using a food processor, beat the butter, sugar, vanilla, salt, and sugar vigorously until it has a creamy texture.
+3) Add flour and blend until it forms large clumps.
+4) Transfer the mixture to the pan and press it evenly around the base and sides. 
+5) Use a fork to dock the bottom of the dough all over.
+6) If using a filling that needs to bake in the crust, partially bake the crust for 15 minutes, then fill and bake as directed. If you're using it for a shell, bake for 45 minutes or until the edges are lightly browned.
+7) Cool completely in the pan on a cooling rack before pressing the bottom of the pan up through the middle and gently remove it from the pan before filling.
