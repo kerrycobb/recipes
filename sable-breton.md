@@ -9,7 +9,7 @@ Sable Breton
 
 ## Instructions
 1) Preheat the oven to 300°F/148°C and grease pan.
-2) Using a food processor, beat the butter, sugar, vanilla, salt, and sugar vigorously until it has a creamy texture.
+2) Using a food processor, beat the butter, sugar, vanilla, and salt vigorously until it has a creamy texture.
 3) Add flour and blend until it forms large clumps.
 4) Transfer the mixture to the pan and press it evenly around the base and sides. 
 5) Use a fork to dock the bottom of the dough all over.
