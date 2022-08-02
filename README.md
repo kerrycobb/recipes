@@ -11,8 +11,12 @@
 - [Ice Cream](ice-cream.md)
 - [Merengue](merengue.md)
 - [Pecan Pie](pecan-pie.md)
-- [Pie Crust](pie-crust.md)
 - [Pita](pita.md)
 - [Shrimp Scampi](shrimp-scampi.md)
 - [Tatziki](tatziki.md)
 - [Yogurt](yogurt.md)
+
+
+# Pastry
+- [Pie Crust](pie-crust.md)
+- [Sable Breton](sable-breton.md)
