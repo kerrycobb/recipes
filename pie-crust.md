@@ -2,9 +2,9 @@
 
 ## Ingredients
 - 1 1/4 cups all-purpose flour
-- 1/4 teaspoon kosher salt
-- 1/2 tablespoon granulated sugar (optional)
-- 8 tablespoons cold unsalted butter, 1 stick
+- 1/2 teaspoon kosher salt
+- 1 tablespoon granulated sugar (optional)
+- 10 tablespoons cold unsalted butter, 1 1/4 stick
 - 2-4 tablespoons ice water, as needed
 
 ## Directions
