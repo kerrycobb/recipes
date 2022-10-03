@@ -1,16 +1,16 @@
 # Cordon Bleu   
 
 ## Ingredients
-4 boneless, skinless chicken breasts
-1 salt, to taste
-1 pepper, to taste
-1 tablespoon garlic powder
-1 tablespoon onion powder
-16 slices swiss cheese
-½ lb ham, sliced
-2 sheets puff pastry, thawed if frozen
-¼ cup english mustard
-1 egg, beaten
+- 4 boneless, skinless chicken breasts
+- 1 salt, to taste
+- 1 pepper, to taste
+- 1 tablespoon garlic powder
+- 1 tablespoon onion powder
+- 16 slices swiss cheese
+- ½ lb ham, sliced
+- 2 sheets puff pastry, thawed if frozen
+- ¼ cup english mustard
+- 1 egg, beaten
 
 ## Preparation
 1. Sprinkle the chicken breasts with salt, pepper, garlic powder, and onion powder, tossing to coat evenly.
