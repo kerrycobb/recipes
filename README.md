@@ -2,6 +2,7 @@
 - [Arroz con Leche](arroz-con-leche.md)
 - [Arroz con Pollo](arroz-con-pollo.md)
 - [Char Siu](char-siu.md)
+- [Cordon Bleu](cordon-bleu.md)
 - [Falafel](falafel.md)
 - [Fish Tacos](fish-tacos.md)
 - [Gai Yang (Thai Grilled Chicken)](gai-yang.md)
