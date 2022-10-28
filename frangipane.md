@@ -3,7 +3,7 @@
 ## Ingredients
 - 8 tablespoons (4 oz; 115 grams) unsalted butter softened
 - ½ cup + 1 tablespoon (115 g) granulated sugar
-- 1 cup (115 g) almond flour
+- 1 cup (115 g) almond flour (or other nut)
 - 3 large whole eggs room temperature
 - 1 tablespoon (15 g) unbleached all-purpose flour
 - 1 teaspoon pure vanilla extract
