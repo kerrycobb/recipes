@@ -11,7 +11,6 @@
 - [Hard Boiled Eggs](hard-boiled-eggs.md)
 - [Hummus](hummus.md)
 - [Pita](pita.md)
-- [Pressure Cooker Times](pressure-cooker-times.md)
 - [Shrimp Scampi](shrimp-scampi.md)
 - [Tatziki](tatziki.md)
 - [Tuscan White Bean Soup](tuscan-white-bean-soup.md)
@@ -28,3 +27,5 @@
 - [Pie Crust](pie-crust.md)
 - [Sable Breton](sable-breton.md)
 
+# Other
+- [Pressure Cooker Times](pressure-cooker-times.md)
