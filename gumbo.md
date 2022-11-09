@@ -9,8 +9,8 @@
 - 2 ribs celery, diced
 - 1 small green bell pepper, diced
 - 1 small white onion, diced
-- 8 ounces beer (just not a light beer!)
-- 4 cups chicken stock
+- 8 ounces beer/wine (just not a light beer)
+- 4 cups water or chicken stock
 - 2 bay leaves
 - 1 pound andouille sausage, cut into coins (or smoked kielbasa)
 - 1 Tbsp cayenne pepper
