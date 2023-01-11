@@ -6,10 +6,12 @@
 - [Cordon Bleu](cordon-bleu.md)
 - [Falafel](falafel.md)
 - [Fish Tacos](fish-tacos.md)
+- [Foccacia](focaccia.md)
 - [Gai Yang (Thai Grilled Chicken)](gai-yang.md)
 - [Gumbo](gumbo.md)
 - [Hard Boiled Eggs](hard-boiled-eggs.md)
 - [Hummus](hummus.md)
+- [Pad Thai](pad-thai.md)
 - [Pita](pita.md)
 - [Shrimp Scampi](shrimp-scampi.md)
 - [Tatziki](tatziki.md)
@@ -17,6 +19,7 @@
 - [Yogurt](yogurt.md)
 
 # Dessert
+- [Alfajores (Dulce de Leche Sandwich Cookies)](alfajores.md)
 - [Cheese Cake](cheesecake.md)
 - [Frangipane](frangipane.md)
 - [Ice Cream](ice-cream.md)
@@ -25,7 +28,7 @@
 
 # Pastry
 - [Pie Crust](pie-crust.md)
-- [Sable Breton](sable-breton.md)
+- [Tart Crust](tart-crust.md)
 
 # Other
-- [Pressure Cooker Times](pressure-cooker-times.md)
+- [Instant Pot Times](instant-pot-times.md)
