@@ -1,6 +1,7 @@
 # Tuscan White Bean Soup
 
 ## Ingredients
+- 2 cups dried beans cooked along with cooking liquid 
 - 2 tablespoons extra virgin olive oil, plus more for serving
 - 1 medium onion, finely diced (about 1 cup)
 - 2 medium carrots, finely diced (about 1 cup)
@@ -8,7 +9,6 @@
 - 4 cloves garlic, minced
 - 1/2 teaspoon dried red pepper flakes
 - 1 quart water (can sub chicken or vegetable broth) 
-- 2 cups dried beans cooked along with cooking liquid 
 - 4 packed cups roughly chopped greens  
 - 4 6-inch sprigs rosemary
 - 2 bay leaves
