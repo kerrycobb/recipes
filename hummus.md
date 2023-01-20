@@ -1,25 +1,25 @@
 # Hummus
 
-[Source](https://www.seriouseats.com/recipes/2016/03/israeli-style-extra-smooth-hummus-recipe.html)
-
 ## Ingredients
-- 1 generous cup dried chickpeas or 3 ⅔ cups cooked chickpeas
+- 1 cup dried chickpeas or 3 ⅔ cups cooked chickpeas
+- 1 tablespoon salt
 - 1 teaspoon baking soda
-- 6 cups water
 - 1 bay leaf
+- 3 cups water
 - 1 cup tahini paste
 - 4 tablespoons freshly squeezed lemon juice
-- 4 cloves garlic
-- kosher salt
+- 6 large cloves garlic
+- 1 teaspoon toasted and crushed cumin seeds (optional)
 
 ## Directions
-1. In pressure cooker, cook dried chickpeas for 1 hour in 6 cups water with a bay leaf, baking soda and 1 tablespoon of salt added.
-2. In food processor add lemon juice and peeled garlic cloves. Don't crush garlic cloves too much gettting skins off. We want most of the damage to the garlic to be happening in contact with the lemon juice to limit the harshness of the garlic.
-3. Place cooked chickpeas and enough cooking water to cover in food processor. Blend until spooth.
-4. Blend in tahini paste and 1 ½ teaspoons salt.
+1. Add chickpeas, baking soda, salt, and bay leaf to instant pot and cook under high pressure for 55 minutes with a 15 minute natural release. 
+2. In food processor add lemon juice and peeled garlic cloves. Don't crush garlic cloves too much when getting skins off. You want most of the damage to the garlic to be happening in contact with the lemon juice to reduce the harshness of the garlic.
+3. Add chickpeas and blend until smooth, adding cooking water as necessary to loosen the mixture to a desired consistency.
+4. Blend in tahini paste and add salt to taste along with optional cumin.
 
 
-
+## Sources
+[Source](https://www.seriouseats.com/recipes/2016/03/israeli-style-extra-smooth-hummus-recipe.html)
 
 From NYT
 
