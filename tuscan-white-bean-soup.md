@@ -1,7 +1,7 @@
 # Tuscan White Bean Soup
 
 ## Ingredients
-- 2 cups dried beans cooked along with cooking liquid 
+- 2 cups dried Canellini beans cooked along with cooking liquid 
 - 2 tablespoons extra virgin olive oil, plus more for serving
 - 1 medium onion, finely diced (about 1 cup)
 - 2 medium carrots, finely diced (about 1 cup)
