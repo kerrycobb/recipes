@@ -8,7 +8,7 @@
 - [Fish Tacos](fish-tacos.md)
 - [Foccacia](focaccia.md)
 - [Gai Yang (Thai Grilled Chicken)](gai-yang.md)
-- [Gumbo](gumbo.md)
+<!-- - [Gumbo](gumbo.md) -->
 - [Hard Boiled Eggs](hard-boiled-eggs.md)
 - [Hummus](hummus.md)
 - [Pad Thai](pad-thai.md)

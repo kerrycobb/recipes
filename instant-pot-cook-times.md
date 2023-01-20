@@ -19,7 +19,7 @@ produce tender but firm beans. For softer beans add more time.
 | Mung Beans                         | n/a              | 17 min        |
 | Pinto Beans                        | 15 min           | 27 min        |
 | Split Peas                         | n/a              | 10 min        |
-| White Beans (Great Northern)       | 20 min           | 30 min        |
+| White Beans (Great Northern)       | 20 min           | 27 min        |
 
 ## Other 
 ##### Dried Hominy

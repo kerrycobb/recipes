@@ -1,7 +1,7 @@
 # Tuscan White Bean Soup
 
 ## Ingredients
-- 2 cups dried Canellini beans cooked along with cooking liquid 
+- 2 cups dried Canellini beans [cooked](instant-pot-cook-times.md) along with the cooking liquid 
 - 2 tablespoons extra virgin olive oil, plus more for serving
 - 1 medium onion, finely diced (about 1 cup)
 - 2 medium carrots, finely diced (about 1 cup)
@@ -13,11 +13,11 @@
 - 4 6-inch sprigs rosemary
 - 2 bay leaves
 - Kosher salt and freshly ground black pepper
-- Parmesan cheese for serving optional)
+- Parmesan cheese for serving (optional)
 - Stale bread (optional)
 - 1 (3-4 inch) chunk parmesan rind (optional)
 - Sausage or Pancetta (optional)
-- 1 can diced or crushed tomatoes or equivalent fresh tomato or 1/2 small can tomato paste (optional)
+- 1 15.5 oz. can diced or crushed tomatoes or equivalent fresh tomato or 1/2 small can tomato paste (optional)
 - Fresh herbs (optional)
 
 ## Preparation
@@ -25,9 +25,9 @@
 2. Brown Pancetta or Sausage if using.
 3. Saute onions, carrots, and celery until softened.       
 4. Add garlic and dried red pepper flakes. Saute for 30 seconds.
-5. Saute tomato paste if using.
+5. Saute tomato paste or fresh tomatoes if using.
 5. Puree some of the beans with a masher or blender. 
-6. Add water, beans with the cooking liquid, rosemary, parmesan rind, bay leaf and tomatoes if using. 
+6. Add water, beans with the cooking liquid, rosemary, parmesan rind, bay leaf and canned tomatoes if using. 
 7. Bring to a boil and reduce to simmer.
 8. Add greens and cook for 15 minutes.
 9.  Discard bay leaves and rosemary stems.
