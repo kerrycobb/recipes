@@ -31,4 +31,4 @@
 - [Tart Crust](tart-crust.md)
 
 # Other
-- [Instant Pot Times](instant-pot-times.md)
+- [Instant Pot Times](instant-pot-cook-times.md)
