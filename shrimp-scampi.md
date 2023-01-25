@@ -1,4 +1,5 @@
 # Shrimp Scampi
+Next time note how much pasta this is good for.
 
 ## Ingredients
 - 1 pound (450g) large shrimp, peeled and split down the back, veins removed
@@ -7,9 +8,9 @@
 - 4 tablespoons (60ml) extra-virgin olive oil, divided, plus more as needed
 - 4 teaspoons (25g) minced garlic (4 to 5 medium cloves)
 - Pinch red pepper flakes
-- 1/2 cup (120ml) dry vermouth
+- 1/2 cup (120ml) dry vermouth or white wine.
 - 3 tablespoons (45g) unsalted butter, cut into tablespoon-size pieces
-- 1 tablespoon (15ml) fresh juice and 1 teaspoon (4g) grated zest from 1 lemon
+- 1 tablespoon (15ml) fresh lemon juice and 1 teaspoon (4g) grated zest from 1 lemon
 - 2 teaspoons (6g) minced parsley, tarragon, and chives
 
 ## Directions
