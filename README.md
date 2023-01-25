@@ -23,7 +23,7 @@
 - [Cheese Cake](cheesecake.md)
 - [Frangipane](frangipane.md)
 - [Ice Cream](ice-cream.md)
-- [Merengue](merengue.md)
+- [French Meringue](meringue.md)
 - [Pecan Pie](pecan-pie.md)
 
 # Pastry

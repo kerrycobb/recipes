@@ -14,10 +14,10 @@ Should try some aspects of this https://www.marthastewart.com/1101031/marthas-pe
 - Pinch of salt
 - 2 tablespoons liquor such as rum, bourbon, or brandy (optional)
 - Layer of nuts for top, whole or chopped (optional)
-- [Merengue](merengue.md) made from two egg whites (optional)
+- [French Merengue](french-meringue.md) made from 3 egg whites and a 1:1 ratio with sugar (optional)
 
 ## Directions
-1. Prepare [Pie Crust](pie-crust.md).
+1. Prepare pie crust.
 2. Set oven temperature to 350&deg;.
 3. Whisk eggs in a bowl.
 4. In a saucepan, mix cream/milk, sugar, eggs, flour, pecans, salt, and optional liquor.
