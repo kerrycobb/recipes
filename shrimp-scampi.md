@@ -1,25 +1,22 @@
-1/2 lb (225 g) of dried pasta (I like linguine)
-1/2 lb (225 g) of shrimp
-1/2 (120 ml) cup of white wine
-1/2 head of garlic
-celery leaves
-xanthan gum (optional but recommended)
-lemon
-crushed red pepper flakes
-parmesan or pecorino cheese
-butter
-olive oil
-salt
-pepper
+# Shrimp Scampi
 
-Get a pot of salted water boiling for the pasta. Make sure your shrimp are thawed, peeled and deveined, and blot them dry with a paper towel. Peel and chop the garlic, and chop up a roughly equivalent pile of celery leaves.
+## Ingredients
+- 1 pound (450g) large shrimp, peeled and split down the back, veins removed
+- Kosher salt
+- 1/4 teaspoon baking soda
+- 4 tablespoons (60ml) extra-virgin olive oil, divided, plus more as needed
+- 4 teaspoons (25g) minced garlic (4 to 5 medium cloves)
+- Pinch red pepper flakes
+- 1/2 cup (120ml) dry vermouth
+- 3 tablespoons (45g) unsalted butter, cut into tablespoon-size pieces
+- 1 tablespoon (15ml) fresh juice and 1 teaspoon (4g) grated zest from 1 lemon
+- 2 teaspoons (6g) minced parsley, tarragon, and chives
 
-Heat a large pan on medium-high, and coat the bottom with olive oil. When hot, drop in the shrimp, taking care to keep them all in one layer, flat against the pan.
+## Directions
 
-Now is usually a good time to start the pasta cooking, or you could wait until after the shrimp are done. Shrimp take 2-5 minutes to cook, depending on size, and you want to cook them most of the way on the first side so that it can brown. When the shrimp seem mostly opaque, scrape them off the pan with a wooden spoon, and stir them around until they're fully opaque.
-
-Remove the shrimp to a plate and quickly put in the garlic. You might need to turn down the heat if it looks like things are going to burn. Fry the garlic until it's just starting to turn golden, then deglaze with the white wine, scraping the pan to dissolve the fond. Squeeze in some lemon juice — anywhere from a few drops to half a lemon, depending on how much you like lemon. 
-
-Reduce the liquid until almost dry, then remove from the heat. When the bubbling has mostly ceased, melt in 4 tablespoons (60 g) of cold butter, mixing constantly to form an emulsion with the reduced wine. To ensure the sauce won't break when the hot pasta hits it, stir in a pinch of xanthan gum.
-
-When the pasta is cooked, mostly drain it, but try to keep about 1/4 cup (60 ml) of the cooking water. Put the pasta and the water into the pan with the sauce, and stir to combine everything. Stir in the shrimp and the celery leaves, and chili flakes, pepper and salt to taste — though if you used salted butter, you probably won't need any additional salt. Serve and top with grated cheese.
+1. In a large bowl, toss together shrimp with 3/4 teaspoon (3g) kosher salt and baking soda until evenly coated. Let stand for at least 10 minutes and up to 1 hour.
+2. In a large skillet, heat 3 tablespoons (45ml) olive oil over high heat until shimmering. Add half of shrimp in an even layer and cook, stirring and turning shrimp occasionally, until pink, barely cooked through, and just starting to turn lightly golden in spots, about 2 minutes. Using a slotted spoon, flexible slotted offset spatula, or tongs, transfer shrimp to a plate. Repeat with remaining shrimp, adding more oil if necessary.
+3. Add remaining 1 tablespoon (15ml) olive oil to skillet along with garlic and red pepper flakes and cook, stirring, until garlic is just starting to turn golden, about 1 minute; lower heat if necessary to prevent scorching.
+4. Add vermouth and boil over high heat, stirring and scraping up any browned bits, until raw alcohol smell is mostly gone and vermouth has reduced by about half, about 3 minutes.
+5. Add butter and cook, stirring and swirling pan rapidly as butter melts to create a silky, emulsified sauce. Remove from heat, add lemon juice, and season with salt. Return to medium heat and bring to a simmer, stirring constantly. (If sauce breaks, whisk in a teaspoon or two of water until sauce emulsifies again.)
+6. Return shrimp to skillet, add herbs and lemon zest, and toss until shrimp are coated in sauce and warmed through. Serve immediately. 
