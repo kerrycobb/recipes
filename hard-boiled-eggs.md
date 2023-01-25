@@ -1,11 +1,6 @@
+# Hard Boiled Eggs, Steamed
 ## Directions
-1. Add ~ 1 cup of water to Instant Pot along with metal trivet. 
-2. Place up to 15 eggs on top of the trivet.
-3. Select manual setting, adjust pressure to high, set keep warm to off, and set time for 3-7 minutes. 
-4. When finished cooking, quick-release pressure.
-5. Cool eggs with cold water.
-
-## Cooking times results
-- 3 minutes: Soft, just set whites and runny yolks
-- 4-5 minutes: Medium, firmer whites and jammy yolks
-- 6-7 minutes: Hard, firm whites and fully set yolks
+1. If serving eggs cold, add 1 tray of ice cubes to a large bowl and fill with water.
+2. Add 1 inch of water to a large pot. Place steamer insert inside, cover, and bring to a boil over high heat. Add eggs to steamer basket, cover, and continue cooking, 6 minutes for soft-boiled eggs or 12 minutes for hard-boiled.
+3. Serve immediately if serving hot. If serving cold, immediately place eggs in bowl of ice water and allow to cool for at least 15 minutes before peeling.
+4. To peel, first gently tap hard-boiled eggs all over to thoroughly crack the shell, then remove shell under a thin stream of running water. (The water helps get under the shell and lift it off the egg.) 
