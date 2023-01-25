@@ -2,6 +2,8 @@
 
 Modified version of [Tasting History](https://www.youtube.com/watch?v=sIFlPc-TW94&t=237s) recipe.
 
+Should try some aspects of this https://www.marthastewart.com/1101031/marthas-pecan-tart such as cook time and not precooking the filling.
+
 ## Ingredients
 - [Pie Crust](pie-crust.md) in a 9.5 x 1 inch round tart pan.
 - 1 cup cream or milk
@@ -10,7 +12,7 @@ Modified version of [Tasting History](https://www.youtube.com/watch?v=sIFlPc-TW9
 - 1 tablespoon flour
 - 1 cup chopped pecans 
 - Pinch of salt
-- 2 tablespoons liquor such as rum, bourbon, or brandy (optional, use slightly less cream/milk)
+- 2 tablespoons liquor such as rum, bourbon, or brandy (optional)
 - Layer of nuts for top, whole or chopped (optional)
 - [Merengue](merengue.md) made from two egg whites (optional)
 
