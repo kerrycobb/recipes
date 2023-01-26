@@ -13,6 +13,7 @@
 - [Hummus](hummus.md)
 - [Pad Thai](pad-thai.md)
 - [Pita](pita.md)
+- [Ratatouille Lasagna](ratatouille-lasagna.md)
 - [Shrimp Scampi](shrimp-scampi.md)
 - [Tzatziki](tzatziki.md)
 - [Tuscan White Bean Soup](tuscan-white-bean-soup.md)
