@@ -15,6 +15,8 @@
 - [Pita](pita.md)
 - [Ratatouille Lasagna](ratatouille-lasagna.md)
 - [Shrimp Scampi](shrimp-scampi.md)
+- [Tonkatsu](tonkatsu.md)
+- [Tonkatsu Sauce](tonkatsu-sauce.md)
 - [Tzatziki](tzatziki.md)
 - [Tuscan White Bean Soup](tuscan-white-bean-soup.md)
 - [Yogurt](yogurt.md)

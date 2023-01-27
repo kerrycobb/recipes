@@ -3,7 +3,7 @@
 ## Ingredients
 - 2 boneless pork loin chops or tenderloin fillets, ½ inch thick 
 - 1 large egg
-- ½ cup panko
+- 2/3 cup panko
 - 2 tablespoon all-purpose flour 
 - ½ tablespoon olive oil (for the egg)
 - 1 tablespoon olive oil (if baking)
