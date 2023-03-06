@@ -12,6 +12,7 @@
 - [Hard Boiled Eggs](hard-boiled-eggs.md)
 - [Hummus](hummus.md)
 - [Pad Thai](pad-thai.md)
+- [Pesto](pesto.md)
 - [Pita](pita.md)
 - [Ratatouille Lasagna](ratatouille-lasagna.md)
 - [Shrimp Scampi](shrimp-scampi.md)
