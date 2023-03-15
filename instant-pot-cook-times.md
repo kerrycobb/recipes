@@ -11,6 +11,7 @@ produce tender but firm beans. For softer beans add more time.
 | ---------------------------------- | ---------------- | ------------- |
 | Adzuki Beans                       |  6 min           | 20 min        |
 | Black Beans                        |  8 min           | 25 min        |
+| Black Eyed Peas                    |  4 min           | 14 min        |
 | Cannellini Beans                   | 15 min           | 35 min        |
 | Chickpeas (Garbanzo Beans)         | 15 min           | 42 min        |
 | Kidney Beans                       | 15 min           | 40 min        |
