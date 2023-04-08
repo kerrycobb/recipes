@@ -14,6 +14,8 @@
 - [Pad Thai](pad-thai.md)
 - [Pesto](pesto.md)
 - [Pita](pita.md)
+<!-- - [Posole Rojo](posole-rojo.md) -->
+<!-- - [Posole Verde](posole-verde.md) -->
 - [Ratatouille Lasagna](ratatouille-lasagna.md)
 - [Shrimp Scampi](shrimp-scampi.md)
 - [Tonkatsu](tonkatsu.md)
