@@ -2,6 +2,7 @@
 - [Alfredo Chicken & Broccoli](alfredo-chicken-broccoli.md)
 - [Arroz con Leche](arroz-con-leche.md)
 - [Arroz con Pollo](arroz-con-pollo.md)
+- [Masala Chai](chai.md)
 - [Char Siu](char-siu.md)
 - [Cordon Bleu](cordon-bleu.md)
 - [Falafel](falafel.md)
