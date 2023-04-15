@@ -1,21 +1,22 @@
 # Ingredients
-- 1 ¾ cups dried chickpeas or 1 cup dried chickpeas plus ¾ cup dried split fava beans
-- 2 cloves garlic, lightly crushed
-- ½ onion, quartered
-- 1 teaspoon toasted ground coriander
-- 1 tablespoon toasted ground cumin
-- 5 toasted pods green cardamom, black seeds only
-- cayenne or mild chile powder to taste
-- ½ cup chopped fresh parsley, cilantro, dill, and/or mint
+- 2 cups dried chickpeas or 1 cup dried chickpeas plus 1 cup dried split fava beans
+- 8 cloves garlic
+- 1 small onion, quartered
+- 1 tablespoon toasted coriander seeds
+- 1 tablespoon toasted cumin seeds
+- 1 tablespoon toasted black peppercorns
+- 5 pods green cardamom, seeds only
+- 1 teaspoon cayenne or chile powder to taste
+- 2 cups chopped fresh herbs, any combination of parsley, cilantro, dill, or mint
 - 2 teaspoons salt
-- ½ teaspoon freshly ground black pepper
-- ½ teaspoon baking soda
-- 1 tablespoon freshly squeezed lemon juice, or more to taste
+- 1 teaspoon baking powder 
 - oil for frying
 
 # Preparation
 1. Soak beans for at least 8 hours. 
-2. Drain beans and transfer to food processor with all remaining ingredients
-3. Pulse until minced, add small amount of water if necessary until dough holds together.
-4. Let sit for one hour in fridge
-5. Scoop into small patties and drop into 350&deg;F oil
+2. Toast all dry spices and grind into powder.
+3. Add herbs, garlic, and onion to food processor and process into paste.  
+4. Drain beans and transfer to food processor along with ground spices.  
+5. Pulse until minced and can be formed into patties.
+6. Let sit for at least one hour in fridge
+7. Scoop into small patties and drop into 350&deg;F oil until golden brown.
