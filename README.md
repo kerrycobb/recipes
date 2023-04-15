@@ -27,6 +27,7 @@
 
 # Dessert
 - [Alfajores (Dulce de Leche Sandwich Cookies)](alfajores.md)
+- [Baklava](baklava.md)
 - [Cheese Cake](cheesecake.md)
 - [Ice Cream](ice-cream.md)
 - [French Meringue](french-meringue.md)
