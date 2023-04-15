@@ -13,7 +13,7 @@
 - oil for frying
 
 # Preparation
-1. Soak beans for at least 8 hours. 
+1. Soak chickpeas for at least 8 hours. 
 2. Toast all dry spices and grind into powder.
 3. Add herbs, garlic, and onion to food processor and process into paste.  
 4. Drain beans and transfer to food processor along with ground spices.  
