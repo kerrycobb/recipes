@@ -6,7 +6,7 @@ enough fresh water to cover the beans with an inch of water. If beans are not
 soaked, add 3 parts water for each part dry beans. When cooking add 1/2 teaspoon 
 salt per cup of beans.
 
-Cook on high pressure with 15 minute natural release. The cooks times below 
+Cook on high pressure with 15 minute natural release. The cook times below 
 produce tender but firm beans. For softer beans add more time.
 
 | Type                               | Soaked Cook Time | Dry Cook Time |
@@ -32,5 +32,5 @@ hominy along with 1/2 teaspoon salt. Cook under high pressure for 50 minutes
 and allow 15 minute natural release. One cup dried yields roughly 3 cups cooked. 
 
 ##### Pork Shoulder
-Cut into roughly ~4x4 inch pieces. Cook on high pressure for 25 minutes with 15
+Cut into roughly ~2x2 inch pieces. Cook on high pressure for 20 minutes with 15
 minute natural release.
