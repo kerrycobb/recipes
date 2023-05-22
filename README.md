@@ -12,6 +12,7 @@
 <!-- - [Gumbo](gumbo.md) -->
 - [Hard Boiled Eggs](hard-boiled-eggs.md)
 - [Hummus](hummus.md)
+- [Okonomiyaki](okonomiyaki.md)
 - [Pad Thai](pad-thai.md)
 - [Pesto](pesto.md)
 - [Pita](pita.md)
