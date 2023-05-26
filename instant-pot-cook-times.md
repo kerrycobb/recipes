@@ -18,7 +18,7 @@ produce tender but firm beans. For softer beans add more time.
 | Chickpeas (Garbanzo Beans)         | 15 min           | 42 min        |
 | Fava (Broad Beans), split          |  8 min           | 22 min        |
 | Great Northern Beans               |  8 min           | 25 min        |
-| Kidney Beans                       |  8 min           | 25 min        |
+| Kidney Beans                       |  5 min           | 25 min        |
 | Lima Beans                         |  8 min           | 12 min        |
 | Navy Beans                         |  7 min           | 20 min        |
 | Pinto Beans                        |  8 min           | 25 min        |
