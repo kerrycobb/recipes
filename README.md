@@ -16,10 +16,11 @@
 - [Pad Thai](pad-thai.md)
 - [Pesto](pesto.md)
 - [Pita](pita.md)
-<!-- - [Posole Rojo](posole-rojo.md) -->
-<!-- - [Posole Verde](posole-verde.md) -->
+<!-- - [Pozole Rojo](pozole-rojo.md) -->
+- [Pozole Verde](pozole-verde.md)
 - [Ratatouille Lasagna](ratatouille-lasagna.md)
 - [Shrimp Scampi](shrimp-scampi.md)
+- [Sushi Rice](sushi-rice.md)
 - [Tonkatsu](tonkatsu.md)
 - [Tonkatsu Sauce](tonkatsu-sauce.md)
 - [Tzatziki](tzatziki.md)
