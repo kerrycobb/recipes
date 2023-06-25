@@ -6,7 +6,7 @@
 - 3 poblano or Anaheim peppers
 - 1 jalapeño pepper
 - 1 large white onion
-- 10 cloves garlic
+- 6 cloves garlic
 - 6 cups water or chicken stock
 - 2 tablespoons dried Mexican oregano or oregano
 - 2 teaspoons ground cumin
@@ -23,8 +23,8 @@
 ## Garnish
 Ideas for garnishing
 - Limes
-- Radishes (sliced thin)
-- Cabbage (thinly shredded)
+- Radishes
+- Cabbage
 - Cilantro
 - Avocados
 - Sour Cream
@@ -34,11 +34,11 @@ Ideas for garnishing
 - Fresh corn
 
 ## Preparation
-1. Toast coriander and cumin seeds and then grind to powder.
-2. Place hominy in large pot with chicken, garlic, onion, bay leaf, oregano, cumin, black pepper, and salt. Cover with water and cook for ~1 hour until chicken is cooked and can be shredded.   
-3. Remove chicken and allow to cool until it can be shredded.
-4. Roast tomatillos, peppers, onion, and garlic at 425&deg;F for ~30 minutes until they begin to char
-5. Toast pepitas until they begin to pop and smell nutty.
-6. Allow roasted vegetables to cool and place them in a blender with the pepitas, and radish leaves and puree until smooth.
-7. Shred the the chicken and add it back to the pot. 
-8. Add the pureed vegetables to the pot and simmer for 20 minutes. 
+1. Roast tomatillos and peppers 425&deg;F for ~30 minutes until they begin to char. To save time, can also start step 5/6 at the same time and add roasted vegetables to remaining ingredients whenever they are ready. Just allow to simmer with other ingredients for at least 20 minutes.
+2. Toast coriander and cumin seeds and then grind to powder. 
+3. Toast pepitas until they begin to pop and smell nutty.
+4. Allow roasted vegetables to cool and then puree until smooth in blender along with pepitas, cilantro, and radish leaves.
+5. Optionally, brown the meat in a large pot and then remove. Pork could be cooked in advance in a pressure cooker or oven. 
+6. In large pot, saute onions until translucent and then add garlic and saute for about a minute.
+7. Add hominy, meat, pureed tomatillos and peppers (if ready), water/stock, bay leaf, oregano, cumin, coriander, black pepper, and salt. Cover and cook until meat is cooked and can be shredded. About 1 hour for chicken. If pork has been cooked and shredded beforehand, just cook for ~20-30 minutes to let flavors blend. 
+8. Once meat is cooked, remove from pot and cool until it can be handled and shredded and then add it back to the pot and cook for 20 minutes more.
