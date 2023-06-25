@@ -9,8 +9,8 @@
 - 6 cloves garlic
 - 6 cups water or chicken stock
 - 2 tablespoons dried Mexican oregano or oregano
-- 2 teaspoons ground cumin
-- 2 teaspoons ground coriander
+- 2 teaspoons cumin
+- 2 teaspoons coriander
 - 2 bay leaves
 - black pepper
 - cilantro
@@ -32,6 +32,7 @@ Ideas for garnishing
 - Onion
 - Green onion
 - Fresh corn
+- Queso fresco
 
 ## Preparation
 1. Roast tomatillos and peppers 425&deg;F for ~30 minutes until they begin to char. To save time, can also start step 5/6 at the same time and add roasted vegetables to remaining ingredients whenever they are ready. Just allow to simmer with other ingredients for at least 20 minutes.
