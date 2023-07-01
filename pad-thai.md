@@ -1,7 +1,7 @@
 # Pad Thai
 ## Ingredients
 ### Sauce
-- 50 grams tamarind pulp
+- 25 grams tamarind pulp
 - 1/2 cup boiling water
 - 3 Tbsp palm sugar, finely chopped, or brown sugar
 - 2 Tbsp fish sauce
@@ -13,7 +13,7 @@
 - 40 grams small dried shrimp
 - 2 tsp thai sweet soy sauce
 - 1 tsp corn starch
-- 1 tsp white pepper, ground
+- 1/2 tsp white pepper, ground
 - 4 cloves garlic, sliced
 - 2 shallots, thinly sliced
 - 1.5 Tbsp finely minced chai poh (sweet preserved daikon) 
