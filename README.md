@@ -3,7 +3,7 @@
 - [Arroz con Leche](arroz-con-leche.md)
 - [Arroz con Pollo](arroz-con-pollo.md)
 - [Masala Chai](chai.md)
-- [Char Siu](char-siu.md)
+<!-- - [Char Siu](char-siu.md) -->
 - [Cordon Bleu](cordon-bleu.md)
 - [Falafel](falafel.md)
 - [Foccacia](focaccia.md)
@@ -12,10 +12,11 @@
 <!-- - [Gumbo](gumbo.md) -->
 - [Hard Boiled Eggs](hard-boiled-eggs.md)
 - [Hummus](hummus.md)
+- [Jerk Chicken](jerk-chicken.md)
 - [Okonomiyaki](okonomiyaki.md)
 - [Pad Thai](pad-thai.md)
 - [Pesto](pesto.md)
-- [Pita](pita.md)
+<!-- - [Pita](pita.md) -->
 <!-- - [Pozole Rojo](pozole-rojo.md) -->
 - [Pozole Verde](pozole-verde.md)
 - [Ratatouille Lasagna](ratatouille-lasagna.md)
