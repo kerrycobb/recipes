@@ -11,11 +11,12 @@
 ## Directions
 1. Whisk eggs and sugar together.
 2. Whisk in dairy until completely combined.
-3. Bring mixture to 170&deg;F on stove over low heat. Mix about every 30 seconds
-to prevent burning.
-4. Add salt and any flavorings.
-5. Allow to cool completely. 
-6. Churn in ice cream maker for 25-30 minutes.
+3. Bring mixture to 170&deg;F on stove over low heat. Mix about every 30 seconds to prevent burning.
+4. Remove from heat.
+5. Add salt and any flavorings.
+6. Allow to cool completely. 
+7. Churn in ice cream maker for 25-30 minutes.
+8. Pour into container and place in freezer until fully hardened. How long???
 
 
 https://foodfolksandfun.net/vanilla-custard-ice-cream/
@@ -31,8 +32,8 @@ https://www.seriouseats.com/easiest-best-homemade-vanilla-ice-cream-how-to-slide
 1. Bring milk and cream to a simmer and steep mint leaves for at least an hour. Strain liquid and proceed as usual. 
 2. Melt chocolate and mix with coconut oil.
 3. Just before turning off the ice cream maker drizzle chocolate into ice cream.
-Alternatively, spread the chocolate on a plate, put in the freezer, and mix 
-chunks into the ice cream before putting it in the freezer to harden.
+Alternatively, spread the chocolate on parchment paper and put in the freezer.
+Then cut into chunks and mix into the ice cream before putting it in the freezer to harden.
 
 ## Notes
 Last time (29 Apr 2023), used 350 ml milk and 400 ml cream
