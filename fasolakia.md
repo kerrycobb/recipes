@@ -18,6 +18,6 @@
 1. Sauté onions until translucent.
 2. Add garlic and sauté for 1 minute.
 3. Add beans, tomato, potato, salt, pepper, and spices and stir pot to coat everything with oil.
-4. Put lid over pot and cook until tender. If using a pressure cooker, cook at high pressure for 10 minutes and allow for 5 minutes of natural release.
+4. Put lid over pot and cook until tender. If using a pressure cooker, cook at high pressure for 5 minutes and allow for 15 minutes of natural release.
 5. Stir in parsley.
 6. Serve with feta, lemon, and parsley to garnish
