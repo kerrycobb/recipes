@@ -6,6 +6,7 @@
 <!-- - [Char Siu](char-siu.md) -->
 - [Cordon Bleu](cordon-bleu.md)
 - [Falafel](falafel.md)
+- [Fasolakia](fasolakia.md)
 - [Foccacia](focaccia.md)
 - [Gai Yang (Thai Grilled Chicken)](gai-yang.md)
 - [Green Bean Casserole](green-bean-casserole.md)
