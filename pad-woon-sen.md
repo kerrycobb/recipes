@@ -1,22 +1,32 @@
 # Pad woon sen
 ## Ingredients
-- 6 oz glass noodles (dried)
-- 2 tablespoons vegetable oil divided
-- 1 pound chicken breasts (boneless and skinless, and slice them into thin strips. You can also use chicken thighs, pork or other types of protein)
-- 2 tablespoons minced garlic
-- 1/2 onion (medium-size, thinly sliced)
-- 1/2 cup thinly sliced carrots
-- 2 cups cabbage thinly sliced (you can also sub other vegetables)
-- 1 medium tomato (seeds removed, and sliced into thin strips)
-- 2 eggs whisked
-- 2 green onions chopped
+- 200 grams mung bean vermicelli noodles
+- 500 grams chicken, cut into strips
+- 200 grams cabbage, julienned
+- 100 grams red bell pepper, julienned
+- 100 grams carrot, shredded 
+- 100 grams (½) white onion, julienned 
+- 15 grams, 3-5 cloves garlic, minced
+- 2 eggs, beaten 
+- Oil 
+- Fresh cilantro
+- Scallions, thinly sliced
 
 ## Sauce Ingredients
-- 3 tablespoons oyster sauce
-- 2 tablespoons soy sauce
-- 1 tablespoon fish sauce
-- 2 tablespoons sugar
-- 1/4 cup water
-- 1/2 teaspoon ground white pepper (or black pepper)
+- 150 grams water 
+- 100 grams oyster sauce 
+- 50 grams soy sauce 
+- 20 grams fish sauce
+- 25 grams brown sugar 
+
 
 ## Directions
+1. Marinate chicken in soy or fish sauce at least 30 minutes.
+2. Soak noodles until soft (15-20 mins).
+3. Stir fry chicken until cooked and set aside. 
+4. Stir fry onions for about 1 minute. 
+5. Add garlic and stir from about 30 seconds. 
+6. Add veggies and stir fry until cooked. 
+7. Add chicken, noodles, and sauce to pan and cook until noodles are done. May need to add more water.
+8. Push ingredients to side and cook egg. Then toss egg into noodles.
+9. Add green onion and cilantro and mix into noodles.
