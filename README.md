@@ -26,6 +26,7 @@
 - [Sushi Rice](sushi-rice.md)
 - [Tonkatsu](tonkatsu.md)
 - [Tonkatsu Sauce](tonkatsu-sauce.md)
+- [Tortillas](tortillas.md)
 - [Tzatziki](tzatziki.md)
 - [Tuscan White Bean Soup](tuscan-white-bean-soup.md)
 - [Yogurt](yogurt.md)
