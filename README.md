@@ -2,6 +2,7 @@
 - [Alfredo Chicken & Broccoli](alfredo-chicken-broccoli.md)
 - [Arroz con Leche](arroz-con-leche.md)
 - [Arroz con Pollo](arroz-con-pollo.md)
+- [Basil Eggplant Stir Fry](basil-eggplant.md)
 - [Masala Chai](chai.md)
 <!-- - [Char Siu](char-siu.md) -->
 - [Cordon Bleu](cordon-bleu.md)
