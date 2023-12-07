@@ -31,5 +31,9 @@ hominy along with 1/2 teaspoon salt. Cook under high pressure for 50 minutes
 and allow 15 minute natural release. One cup dried yields roughly 3 cups cooked. 
 
 ##### Pork Shoulder
-Cut into roughly ~2x2 inch pieces. Cook on high pressure for 20 minutes with 15
-minute natural release.
+With 15 minute natural release
+
+| Size  | Browned | Uncooked   | 
+| 1 x 1 | 6 min   |            | 
+| 2 x 1 |         | 20 minutes |
+
