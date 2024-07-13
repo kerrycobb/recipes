@@ -7,8 +7,8 @@
 - Garlic (optional)
 
 ## Directions
-1. Preheat oven to 350&deg;F.
-2. Spread chilis in a single layer on a baking sheet and roast for 5 minutes. 
+1. Preheat oven to 350&deg;F or heat skillet.
+2. Spread chilis in a single layer on a baking sheet and roast for 5 minutes or toast for 30 seconds on skillet. Chilis will become bitter if burned. 
 3. Allow to cool and deseed.
 4. Add chilis and water to pot and bring to boil.
 5. Optionally roast onion and garlic. 
