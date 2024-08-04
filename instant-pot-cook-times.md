@@ -33,7 +33,8 @@ and allow 15 minute natural release. One cup dried yields roughly 3 cups cooked.
 ##### Pork Shoulder
 With 15 minute natural release
 
-| Size  | Browned | Uncooked   | 
-| 1 x 1 | 6 min   |            | 
-| 2 x 1 |         | 20 minutes |
+| Size Pieces  | Browned | Uncooked   | 
+| ------------ | ------- | ---------- | 
+| 1 x 1        | 6 min   |            | 
+| 2 x 1        |         | 20 min     |
 
