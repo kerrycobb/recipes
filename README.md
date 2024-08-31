@@ -26,7 +26,7 @@
 - [Shrimp Scampi](shrimp-scampi.md)
 - [Sushi Rice](sushi-rice.md)
 - [Tartar Sauce](tartar-sauce.md)
-- [Thai Basil Eggplant Stir Fry](basil-eggplant.md)
+- [Thai Basil Eggplant Stir Fry](thai-basil-eggplant.md)
 - [Tonkatsu](tonkatsu.md)
 - [Tonkatsu Sauce](tonkatsu-sauce.md)
 - [Tortillas](tortillas.md)
