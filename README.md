@@ -15,6 +15,7 @@
 - [Hard Boiled Eggs](hard-boiled-eggs.md)
 - [Hummus](hummus.md)
 - [Jerk Chicken](jerk-chicken.md)
+- [Laab](laab.md)
 - [Okonomiyaki](okonomiyaki.md)
 - [Pad Thai](pad-thai.md)
 - [Pad Woon Sen](pad-woon-sen.md)
