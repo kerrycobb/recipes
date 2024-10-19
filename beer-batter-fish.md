@@ -2,11 +2,12 @@
 
 ## Ingredients
 - 450 grams / 2 lb fish
+- 150 grams beer
 - 125g all purpose flour
-- 7 grams smoked paprika, 1 tablespoon
+- 4 grams smoked paprika
 - 5 grams garlic powder
-- 1 teaspoon baking powder
-- 5g salt, 1 teaspoon
+- 1 teaspoon baking powder, 1g?
+- 5g salt
 - 1/4 teaspoon black pepper
 - 1 egg
 - Oil for frying
