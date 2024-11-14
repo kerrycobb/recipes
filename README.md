@@ -2,6 +2,7 @@
 - [Alfredo Chicken & Broccoli](alfredo-chicken-broccoli.md)
 - [Arroz con Pollo](arroz-con-pollo.md)
 - [Beer Batter Fish](beer-batter-fish.md)
+- [Caesar Dressing](caesar-dressing.md)
 - [Chili Sauce](chili-sauce.md)
 - [Masala Chai](chai.md)
 <!-- - [Char Siu](char-siu.md) -->
@@ -13,6 +14,7 @@
 - [Green Bean Casserole](green-bean-casserole.md)
 <!-- - [Gumbo](gumbo.md) -->
 - [Hard Boiled Eggs](hard-boiled-eggs.md)
+- [Hot & Sour Sesame Pork](hot-sour-sesame-pork.md)
 - [Hummus](hummus.md)
 - [Jerk Chicken](jerk-chicken.md)
 - [Laab](laab.md)
@@ -41,6 +43,7 @@
 - [Baklava](baklava.md)
 - [Bread Pudding](bread-pudding.md)
 - [Cheese Cake](cheesecake.md)
+- [Dutch Baby](dutch-baby.md)
 - [Ice Cream](ice-cream.md)
 - [French Meringue](french-meringue.md)
 - [Pecan Pie](pecan-pie.md)
