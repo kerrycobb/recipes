@@ -8,12 +8,13 @@
 
 ## Sauce
 - 40 g sesame paste
-- 25 g tbsp light soy sauce
+- 25 g light soy sauce
+- 25 g water
 - 5 g rice vinegar
 - 5 g chili oil
 - 5 g sesame oil
 - 3 g brown sugar
-- pinch black pepperf
+- pinch black pepper
 
 # Directions
 1. Brown pork and remove.
