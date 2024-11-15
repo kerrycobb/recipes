@@ -1,9 +1,9 @@
 
 # Ingredients
 - Vegetable oil
-- 150 g onion, julienned 
+- 150 g onion, diced
 - 15 g garlic, sliced
-- 500 g Chinese leaf, chopped
+- 500 g cabbage, chopped
 - 450 g minced pork
 
 ## Sauce
