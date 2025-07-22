@@ -52,4 +52,3 @@
 
 # Other
 - [Instant Pot Times](instant-pot-cook-times.md)
-- [Thickeners](notes-on-thickeners.md)
