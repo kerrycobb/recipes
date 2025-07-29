@@ -13,7 +13,7 @@ produce tender but firm beans. For softer beans add more time.
 | ---------------------------------- | ---------------- | ------------- |
 | Adzuki Beans                       |  4 min           | 16 min        |
 | Black Beans                        |  6 min           | 21 min        |
-| Black Eyed Peas                    |  10 min          | 15 min        |
+| Black Eyed Peas                    |  7 min           | 15 min        |
 | Cannellini Beans                   |  8 min           | 30 min        |
 | Chickpeas (Garbanzo Beans)         | 15 min           | 42 min        |
 | Fava (Broad Beans), split          |  8 min           | 22 min        |
@@ -25,16 +25,6 @@ produce tender but firm beans. For softer beans add more time.
 | White Beans (Great Northern)       |  5 min           | 25 min        |
 
 ## Other 
-##### Dried Hominy
-Soak at least 8 hours. Drain hominy and add 2 cups water for each cup of dried
-hominy along with 1/2 teaspoon salt. Cook under high pressure for 50 minutes 
-and allow 15 minute natural release. One cup dried yields roughly 3 cups cooked. 
 
-##### Pork Shoulder
-With 15 minute natural release
-
-| Size Pieces  | Browned | Uncooked   | 
-| ------------ | ------- | ---------- | 
-| 1 x 1        | 6 min   |            | 
-| 2 x 1        |         | 20 min     |
-
+##### Beef Ribs
+45 min
