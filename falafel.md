@@ -1,5 +1,5 @@
 # Ingredients
-- 1 cup or 200 grams dried chickpeas or half dried chickpeas and half dried split fava beans, soaked for ~12 hours
+- 1 cup or 200 grams dried chickpeas or half dried chickpeas and half dried split fava beans, soaked for at least 6 hours.
 - 6 cloves garlic
 - 1/2 onion, quartered
 - 1/2 tablespoon toasted coriander seeds
