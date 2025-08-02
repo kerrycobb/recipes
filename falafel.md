@@ -2,10 +2,10 @@
 - 1 cup or 200 grams dried chickpeas or half dried chickpeas and half dried split fava beans, soaked for at least 6 hours.
 - 6 cloves garlic
 - 1/2 onion, quartered
-- 1/2 tablespoon toasted coriander seeds
-- 1/2 tablespoon toasted and ground cumin seeds
-- 1/2 tablespoon toasted and ground  black peppercorns
-- 3 pods green cardamom, seeds only, toasted and ground
+- 1/2 tablespoon coriander seeds
+- 1/2 tablespoon cumin seeds
+- 1/2 tablespoon black peppercorns
+- 3 pods green cardamom, seeds only
 - 1 teaspoon smoked paprika
 - 1/2 teaspoon hot chile powder
 - 1 cup chopped fresh herbs, any combination of parsley, cilantro, dill, or mint
