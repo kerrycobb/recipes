@@ -1,7 +1,7 @@
 # Ingredients
-- 1 cup or 200 grams dried chickpeas or half dried chickpeas and half dried split fava beans, soaked for at least 6 hours.
+- 200 grams, 1 cup dried chickpeas or half dried chickpeas and half dried split fava beans, soaked for at least 6 hours.
 - 15 grams, ~6 cloves garlic
-- 100 grams, ~1/2 onion, quartered
+- 100 grams, ~1/2 onion quartered
 - 1 teaspoon coriander seeds
 - 1/2 teaspoon cumin seeds
 - 1/2 teaspoon black peppercorns
@@ -14,7 +14,7 @@
 - oil for frying
 
 # Preparation
-1. Soak chickpeas ~12 hours and discard soaking liquid. 
+1. Soak chickpeas  hours and discard soaking liquid. 
 2. Toast all dry spices and grind into powder.
 3. Add herbs, garlic, and onion to food processor and process into paste.  
 4. Add beans, ground spices, and baking powder to food processor.  
