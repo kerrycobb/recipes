@@ -10,4 +10,5 @@ Proportions by weight:
 - 5% salt relative to basil
 
 ## Preparation
-1. Put all ingredients in blender or food processor and blend until smooth. 
+1. Put all ingredients in blender or food processor and blend until smooth.
+2. Portion into 150 gram portions.
