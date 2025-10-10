@@ -4,8 +4,8 @@
 Proportions by weight:
 - 4 parts fresh herbs
 - 4 parts olive oil
+- 3 parts grated dry aged cheese
 - 2 parts nuts
-- 2 parts grated dry aged cheese
 - 1 part garlic
 
 ## Preparation
