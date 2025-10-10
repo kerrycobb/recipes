@@ -7,6 +7,7 @@ Proportions by weight:
 - 3 parts grated dry aged cheese
 - 2 parts nuts
 - 1 part garlic
+- 5% salt relative to basil
 
 ## Preparation
 1. Put all ingredients in blender or food processor and blend until smooth. 
