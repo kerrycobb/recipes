@@ -8,7 +8,7 @@
 - 20 grams toasted sticky rice powder
 - 3 kaffir lime leaves finely chopped
 - 4 tablespoons lime
-- 4 tablespoons fish sauce
+- 3 tablespoons fish sauce
 - chilies fresh or dried
 
 ## Directions
