@@ -7,7 +7,8 @@
 - 30 grams mint
 - 20 grams toasted sticky rice powder
 - 3 kaffir lime leaves finely chopped
-- 2 limes
+- 4 tablespoons lime
+- 4 tablespoons fish sauce
 - chilies fresh or dried
 
 ## Directions
