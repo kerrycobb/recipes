@@ -17,7 +17,6 @@
 - 100 grams oyster sauce 
 - 50 grams soy sauce 
 - 20 grams fish sauce
-- 25 grams brown sugar 
 
 
 ## Directions
