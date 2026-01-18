@@ -36,6 +36,7 @@
 - [Tortillas](tortillas.md)
 - [Tzatziki](tzatziki.md)
 - [Tuscan White Bean Soup](tuscan-white-bean-soup.md)
+- [Waffles](waffles.md)
 - [Yogurt](yogurt.md)
 
 # Dessert
