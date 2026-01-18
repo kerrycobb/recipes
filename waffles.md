@@ -10,7 +10,7 @@ Makes 3 waffles
 - 15 grams vanilla extract
 - 1/2 teaspoon or 3 grams salt
 - 1/2 teaspoon or 2.5 grams baking powder
-- 1/4 teaspoonor 1.5 grams baking soda
+- 1/4 teaspoo nor 1.5 grams baking soda
 
 # Directions
 1. Mix all ingredients being careful not to over mix.
