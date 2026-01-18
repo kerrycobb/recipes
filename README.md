@@ -50,6 +50,7 @@
 - [French Meringue](french-meringue.md)
 - [Pecan Pie](pecan-pie.md)
 - [Pie Crust](pie-crust.md)
+- [Store Bought Puff Pastry](puff-pastry.md)
 
 
 # Other
