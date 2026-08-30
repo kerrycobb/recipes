@@ -1,9 +1,9 @@
-Makes 3 waffles
+Makes 3 7-inch waffles
 
 # Ingredients
 - 200 grams 100% sourdough starter
-- 100 grams buttermilk
-- 75 grams oil
+- 100 grams buttermilk or 1:1 yogurt:milk
+- 75 grams oil, try 65
 - 1 large egg
 - 50 grams corn starch
 - 25 grams sugar
