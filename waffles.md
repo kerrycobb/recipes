@@ -15,5 +15,5 @@ Makes 3 7-inch waffles
 # Directions
 1. Mix all ingredients being careful not to over mix.
 2. Let rest for 30 minutes
-3. Pour 160 grams batter for each waffle into waffle iron and cook ~4 minutes.
+3. Pour 160 grams or 1 cup batter for each waffle into waffle iron and cook ~4 minutes.
 4. Warm and recrisp in toaster oven.
