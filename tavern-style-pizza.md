@@ -3,16 +3,16 @@
 ## Ingredients
 For 2X 14 inch pizzas 
 
-- 160 grams water
-- 80 grams starter
+- 180 grams water
+- 40 grams starter
 - 30 grams oil
 - 7.8 grams salt
 - 7.8 grams sugar
-- 360 grams bread flour
+- 380 grams bread flour
 
 ## Baker's Percentage
 - 50% Hydration
-- 20% Starter
+- 10% Starter
 - 8% Fat
 - 2% Salt
 - 2% Sugar

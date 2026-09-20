@@ -1,9 +1,9 @@
 # Focaccia
 
 ## Baker's Percentages
-- Hydration: **80%**
-- Starter: **10%**
-- Salt: **2%**
+- 80% Hydration
+- 10% Starter (100%)
+- 2% Salt
 
 ## Ingredients
 For 9x13 pan

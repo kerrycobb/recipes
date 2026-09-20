@@ -20,6 +20,7 @@
 - [Hummus](hummus.md)
 - [Jerk Chicken](jerk-chicken.md)
 - [Laab](laab.md)
+- [New York Style Pizza](new-york-style-pizza.md)
 - [Okonomiyaki](okonomiyaki.md)
 - [Pad Thai](pad-thai.md)
 - [Pad Woon Sen](pad-woon-sen.md)

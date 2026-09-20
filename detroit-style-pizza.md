@@ -1,17 +1,18 @@
 # Detroit Style Pizza
 
+## Baker's Percentage
+- 75% Hydration
+- 10% Starter
+- 2% Salt
+
 ## Ingredients
 For one 9x14 inch pizza. 
 
-- 195 grams water
-- 60 grams starter
+- 225 grams water
+- 30 grams starter
 - 6 grams salt
-- 270 grams bread flour
+- 285 grams bread flour
 
-## Baker's Percentage
-- 75% Hydration
-- 20% Starter
-- 2% Salt
 
 ## Directions
 1. Mix water, starter, and salt until starter fully dissolved.
